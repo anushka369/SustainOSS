@@ -10,9 +10,10 @@
     "build": "npm run build --workspaces",
     "test": "npm run test --workspaces",
     "lint": "npm run lint --workspaces",
-    "format": "prettier --write \"packages/**/*.{ts,tsx,js,jsx,json,md}\""
+    "format": "prettier --write \"packages/**/*.{ts,tsx,js,jsx,json,md}\"",
+    "vercel-build": "cd packages/frontend && npm run build"
   },
   "devDependencies": {
-    "prettier": "^3.1.1"
+    "prettier": "3.1.1"
   }
 }

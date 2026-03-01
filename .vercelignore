@@ -1,0 +1,8 @@
+node_modules
+packages/backend
+.git
+.kiro
+*.log
+.env
+.env.*
+!.env.example

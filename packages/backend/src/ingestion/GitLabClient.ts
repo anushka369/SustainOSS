@@ -53,7 +53,6 @@ export class GitLabClient {
       while (true) {
         const mrs = await this.gitlab.MergeRequests.all({
           projectId,
-          state: 'all',
           orderBy: 'created_at',
           sort: 'desc',
           perPage,
