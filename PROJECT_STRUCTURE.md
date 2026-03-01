@@ -9,7 +9,6 @@ This document describes the project structure and key files in the SustainOSS mo
 ```
 sustainoss/
 ├── packages/              # Monorepo packages
-├── .kiro/                 # Kiro specs and configuration
 ├── package.json           # Root package.json (workspace configuration)
 ├── .prettierrc.json       # Prettier code formatting configuration
 ├── .prettierignore        # Files to ignore for Prettier
@@ -205,4 +204,3 @@ After completing Task 1 (project setup), the next tasks are:
 4. **Task 6**: Implement MetricsCalculator
 5. **Task 7**: Implement BurnoutDetector
 
-Refer to `.kiro/specs/sustainoss/tasks.md` for the complete implementation plan.

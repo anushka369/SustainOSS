@@ -163,7 +163,6 @@ sustainoss/
 │           ├── pages/        # Page components
 │           ├── services/     # API clients
 │           └── types/        # TypeScript types
-├── .kiro/specs/          # Feature specifications
 └── docker-compose.yml    # Docker configuration
 ```
 
@@ -189,7 +188,7 @@ sustainoss/
 
 When adding a new feature:
 
-1. **Create a specification** in `.kiro/specs/` following the existing format
+1. **Create a specification** in following the existing format
 2. **Define requirements** with clear acceptance criteria
 3. **Design the solution** with interfaces and data models
 4. **Write correctness properties** for property-based testing

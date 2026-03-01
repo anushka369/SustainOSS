@@ -264,5 +264,3 @@ After setup is complete, you can:
 3. Develop the analytics engine (Tasks 6-10)
 4. Create the REST API (Task 12)
 5. Build the web dashboard (Tasks 14-19)
-
-Refer to `.kiro/specs/sustainoss/tasks.md` for the complete implementation plan.
