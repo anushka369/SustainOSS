@@ -1,0 +1,10 @@
+export { RepositoryParser } from './RepositoryParser.js';
+export { GitHubClient } from './GitHubClient.js';
+export { GitLabClient } from './GitLabClient.js';
+export { IngestionOrchestrator } from './IngestionOrchestrator.js';
+export { DataExtractor } from './DataExtractor.js';
+export type { RepositoryParserConfig } from './RepositoryParser.js';
+export type { GitHubClientConfig } from './GitHubClient.js';
+export type { GitLabClientConfig } from './GitLabClient.js';
+export type { IngestionOrchestratorConfig, SyncResult } from './IngestionOrchestrator.js';
+export type { RawPullRequest, RawIssue } from './DataExtractor.js';
