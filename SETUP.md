@@ -258,9 +258,8 @@ If you get an error about TimescaleDB extension:
 ## Next Steps
 
 After setup is complete, you can:
-
-1. Start implementing the data models (Task 2)
-2. Build the Git repository ingestion layer (Task 3)
-3. Develop the analytics engine (Tasks 6-10)
-4. Create the REST API (Task 12)
-5. Build the web dashboard (Tasks 14-19)
+1. Start implementing the data models
+2. Build the Git repository ingestion layer
+3. Develop the analytics engine
+4. Create the REST API
+5. Build the web dashboard
