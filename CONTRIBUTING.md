@@ -47,7 +47,7 @@ Feature suggestions are welcome! Please create an issue with:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-org/sustainoss.git
+   git clone https://github.com/anushka369/sustainoss.git
    cd sustainoss
    ```
 
@@ -243,7 +243,7 @@ All pull requests require:
 
 - **Questions**: Open a GitHub Discussion
 - **Bugs**: Create a GitHub Issue
-- **Security issues**: Email security@sustainoss.org (do not create public issues)
+- **Security issues**: Email ab8991@srmist.edu.in (do not create public issues)
 
 ## License
 
