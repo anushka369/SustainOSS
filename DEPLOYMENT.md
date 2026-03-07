@@ -296,7 +296,6 @@ docker-compose down
 ## Support
 
 For additional help:
-- Check the [GitHub Issues](https://github.com/your-org/sustainoss/issues)
 - Review the [README.md](README.md) for general information
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for development setup
 
