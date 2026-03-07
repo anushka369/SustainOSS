@@ -196,11 +196,11 @@ Optional:
 
 ## Next Steps
 
-After completing Task 1 (project setup), the next tasks are:
+After completing project setup, the next tasks are:
 
-1. **Task 2**: Implement core data models and types
-2. **Task 3**: Implement Git repository ingestion layer
-3. **Task 4**: Implement DataExtractor and storage layer
-4. **Task 6**: Implement MetricsCalculator
-5. **Task 7**: Implement BurnoutDetector
+1. Implement core data models and types
+2. Implement Git repository ingestion layer
+3. Implement DataExtractor and storage layer
+4. Implement MetricsCalculator
+5. Implement BurnoutDetector
 
