@@ -13,7 +13,7 @@ This guide covers deploying SustainOSS using Docker for production environments.
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/anushka369/SustainOSS/
    cd sustainoss
    ```
 
